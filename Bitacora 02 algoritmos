@@ -1,0 +1,28 @@
+Bitacora 02
+Algoritmos C/C++
+Nombre: Monica Castellanos
+Docente: Karen Gaitan De Los Rios
+
+Preguntas de reflexiòn:
+¿Cuàl fue el proposito de cada comando ejecutado?
+
+pwd: Muestra la ruta en la que me encuentro ubicada, en este caso fue home/compsis1
+ls: Este comando muestra los archivos y/o carpetas que se encuentran dentro de la ruta en la que estamos.
+mkdir: Este comando permite crear nuevos directorios o archivos dentro de la ruta en la que estamos.
+cd: Permite cambiar de directorio. En este caso permite ingresar al directorio creado.
+touch archivo.txt: Este comando permite crear un archivo de texto dentro del directorio creado.
+ls -l: Este comando muestra una lista de los archivos.
+cp: Este comando permite copiar un archivo a otro archivo.
+mv: Este comando permite renombrar archivos.
+
+rm: Este comando permite eliminar archivos.
+cd ..: Este comando permite regresar al directorio anterior.
+rm -r: Este comando permite eliminar directorios incluyendo sus archivos.
+
+¿Què ventajas tiene usar la terminal en comparaciòn con la interfaz gràfica?
+
+Usar la terminal nos permite navegar por nuestro sistema operativo de una forma màs profunda, ya que estamos familiarizados con la interfaz gràfica. Sin embargo, con la terminal aprendemos a navegar por medio de comandos que nos permiten realizar tareas, acceder a multiples herramientas, acceder facilmente a la informaciòn del sistema operativo y es mas eficaz porque reduce el consumo de recursos a comparaciòn de la interfaz gràfica.
+
+¿Què comandos podrìan facilitar la automatizaciòn de tareas repetitivas?
+
+Si queremos regresar al comando anterior podemos utilizar las flechas del teclado, mkdir para crear archivos y directorios, cp para copar archivos a otros archivos, ls -l que muestra una lista de los archivos en formato detallado, rm para eleiminar archivos, tocuh para crear archivos de texto, etc.  
